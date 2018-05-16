@@ -1,4 +1,4 @@
-package com;
+package kr.pe.cg4jins;
 
 import javax.persistence.GeneratedValue;
 import java.lang.annotation.Annotation;
